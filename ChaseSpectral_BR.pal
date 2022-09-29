@@ -1,0 +1,27 @@
+;====================================================================
+;
+; Adapted rainbow colortable from Matplotlib (Spectral_r). Same colortable with pink
+; This was added by Randy J. Chase (@dopplerchase)
+;
+; Please note that this has not been tested, and likely works best for storms...
+;
+
+Product: BR
+Units:   DBZ
+Step:    5
+
+Color:  70 228 66 154
+Color:  65 225 35 126
+Color:  60 158 1 66
+Color:  55 203 51 77
+Color:  50 234 94 71
+Color:  45 249 142 82
+Color:  40 253 191 111
+Color:  35 254 229 147
+Color:  30 255 255 190
+Color:  25 234 247 158
+Color:  20 191 229 160
+Color:  15 134 207 165
+Color:  10 84 174 173
+Color:  5 58 126 184
+Color:  0 94 79 162
